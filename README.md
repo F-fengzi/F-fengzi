@@ -1,6 +1,6 @@
 ## Hi there, it's Fengzi! 👋
 
-🔭 Currently planning for **Fengzi Lab 2.0**: a (hopefully) beautiful, simplistic, and easy-to-use collection of my personal projects.
+🔭 Currently planning for **Fengzi Lab 2.0**: a simple collection of my personal projects.
   - ###### (Unfun fact: this simple thing is under planning for 2 years now and I never got to start on it due to my extreme laziness. Pain.)
   - Development blogs are not coming anytime soon™
 
@@ -12,7 +12,7 @@
   - 🎉
 
 📫 How to reach me: 
-  - Email: admin@fengzi.ga (checks decade-ly)
+  - Email: support@fengzi.dev (checks decade-ly)
   - Discord: 疯子鸭#5218
 
 ⚡ However, for now, my old stuff here on GitHub:
