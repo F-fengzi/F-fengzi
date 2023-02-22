@@ -1,26 +1,21 @@
 ## Hi there, it's Fengzi! 👋
 
-🔭 Currently planning for **Fengzi Lab 2.0**: a simple collection of my personal projects.
-  - ###### (Unfun fact: this simple thing is under planning for 2 years now and I never got to start on it due to my extreme laziness. Pain.)
-  - Development blogs are not coming anytime soon™
+![GitHub Stats powered by github-readme-stats](https://github-readme-stats.vercel.app/api?username=F-fengzi&count_private=true&show_icons=true&theme=nightowl&title_color=A44EED&border_color=A44EED&bg_color=DEG,193549,000000&border_radius=15&hide_title=true&include_all_commits=true)
 
-💬 I have the knowledge of:
+<!-- 💬 I have the knowledge of:
   - Many many basic stuff for webdev / servers (and have not improved for years)
-  - No real programming languages except for basic JavaScript before ES6 (that I learnt years ago and have not improved since then)
+  - No real programming languages except for basic JavaScript before ES6 (that I learnt years ago and have not improved since then) -->
 
-🌱 I’m currently learning, well, nothing!
+🌱 I’m currently learning... nothing!
   - 🎉
+  - 🎉 Yay!
 
-📫 How to reach me: 
+🔭 I love to immerse myself with non-realistic project plans that are going to happen at some point (this statement has not changed for 3 years).
+- Fengzi Lab 2.0, a small little collection of my personal projects
+- More in the back of my mind...
+
+📫 You can reach me through:
   - Email: support@fengzi.dev (checks decade-ly)
   - Discord: 疯子鸭#5218
 
-⚡ However, for now, my old stuff here on GitHub:
-
-![GitHub Stats powered by github-readme-stats](https://github-readme-stats.vercel.app/api?username=F-fengzi&count_private=true&show_icons=true&theme=nightowl&title_color=A44EED&border_color=A44EED&bg_color=DEG,193549,000000&border_radius=15&hide_title=true&include_all_commits=true)
-  - Almost all repositories are currently private
-  - Fengzi Music (optimized version of the open-sourced `MKOnlineMusicPlayer`)
-  - Website of Jostro OS & AmogOS (the original template)
-  - TypeAnything
-  - Discord bots: Testie and Onebot (now a public archive, I don't like this bot)
-  - Coming soon™...
+⚡ My GitHub repos are mostly private currently.
