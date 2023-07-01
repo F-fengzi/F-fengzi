@@ -16,6 +16,6 @@
 
 📫 You can reach me through:
   - Email: support@fengzi.dev (checks decade-ly)
-  - Discord: 疯子鸭#5218
+  - Discord: @fengziya
 
 ⚡ My GitHub repos are mostly private currently.
