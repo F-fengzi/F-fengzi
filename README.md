@@ -1,8 +1,15 @@
 ## Hoi there! 👋
 
-Before anything look at my rank on this thinge sliding from a to c while doing absolutely nothing it's funny:
+*Shhhh...*
 
-![GitHub Stats powered by github-readme-stats](https://github-readme-stats.vercel.app/api?username=F-fengzi&count_private=true&show_icons=true&theme=nightowl&title_color=A44EED&border_color=A44EED&bg_color=DEG,193549,000000&border_radius=15&hide_title=true&include_all_commits=true)
+*see this? i've been watching it lol*
+
+*it's down to a C now.*
+
+![GitHub Stats powered by github-readme-stats](https://github-readme-stats-fengzi.vercel.app/api?username=F-fengzi&count_private=true&show_icons=true&theme=nightowl&title_color=A44EED&border_color=A44EED&bg_color=DEG,193549,000000&border_radius=15&hide_title=true&include_all_commits=true)
+
+<br>
+<br>
 
 Anyways:
 - I do web dev 🗿
